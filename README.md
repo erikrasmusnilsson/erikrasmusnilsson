@@ -1,4 +1,4 @@
-# Oi mate ✌️ ![](https://visitor-badge.glitch.me/badge?page_id=erikrasmusnilsson.erikrasmusnilsson)
+# Oi mate <img width="32" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 Working as a software developer and finishing my BSc. in software development. My favourite part of programming is architecture and building maintainable and scalable code bases. I'm currently trying to learn more about good software architecture with Go, but it is hard to find recources for this. 
 
@@ -11,3 +11,25 @@ Working as a software developer and finishing my BSc. in software development. M
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 <img alt="Microservices" src="https://img.shields.io/badge/microservice%20-%231572B6.svg?&style=for-the-badge&logoColor=white&color=DD6D74" /> <img alt="Design Patterns" src="https://img.shields.io/badge/design%20patterns%20-%231572B6.svg?&style=for-the-badge&logoColor=white&color=E3BD7A" />
+
+ ![](https://visitor-badge.glitch.me/badge?page_id=erikrasmusnilsson.erikrasmusnilsson)
+ 
+ ```go
+ package main
+ 
+ import "fmt"
+ 
+ type developer struct {
+    Name  string   `json:"name"`
+    Email string   `json:"email"`
+ }
+ 
+ func main() {
+    erikrasmusnilsson := developer{
+        Name: "Rasmus Nilsson",
+        Email: "e.rasmus.nilsson@gmail.com",
+    }
+    
+    fmt.Printf("%+v\n", erikrasmusnilsson)
+ }
+ ```
