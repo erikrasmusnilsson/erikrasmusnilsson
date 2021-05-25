@@ -12,7 +12,7 @@ Working as a software developer and finishing my BSc. in software development. M
 
 <img alt="Microservices" src="https://img.shields.io/badge/microservice%20-%231572B6.svg?&style=for-the-badge&logoColor=white&color=DD6D74" /> <img alt="Design Patterns" src="https://img.shields.io/badge/design%20patterns%20-%231572B6.svg?&style=for-the-badge&logoColor=white&color=E3BD7A" />
 
- ![](https://visitor-badge.glitch.me/badge?page_id=erikrasmusnilsson.erikrasmusnilsson)
+![](https://visitor-badge.glitch.me/badge?page_id=erikrasmusnilsson.erikrasmusnilsson)
  
  ```go
  package main
@@ -33,3 +33,6 @@ Working as a software developer and finishing my BSc. in software development. M
     fmt.Printf("%+v\n", erikrasmusnilsson)
  }
  ```
+ 
+ ## Wanna Collab? 🤝
+ Sure thing, just hit me up via email! You can find my email address in the code section above 😉
